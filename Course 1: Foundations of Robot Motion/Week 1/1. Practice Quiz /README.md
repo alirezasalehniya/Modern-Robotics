@@ -15,3 +15,15 @@ The number of degrees of freedom of a robot is (select all that apply):
 - [ ] the number of joints of the robot.
 - [ ] the number of bodies comprising the robot.
 - [x] the number of freedoms of the bodies minus the number of independent constraints between the bodies.
+
+Question 3:
+The number of degrees of freedom of a planar rigid body is: "3"
+
+Question 4:
+The number of degrees of freedom of a spatial rigid body is: "6"
+
+Question 5:
+A rigid body in n-dimensional space has m total degrees of freedom. How many of these m degrees of freedom are angular (not linear)?  Select all that apply. (This is consistently one of the most incorrectly answered questions in this course, so think about it carefully!)
+- [x] m-n
+- [x] n(n-1)/2
+- [ ] Neither of the above.
