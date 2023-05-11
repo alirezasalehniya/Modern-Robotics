@@ -1,6 +1,36 @@
-<input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
-<label for="vehicle1"> I have a bike</label><br>
-<input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
-<label for="vehicle2"> I have a car</label><br>
-<input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
-<label for="vehicle3"> I have a boat</label><br>
+<form>
+<fieldset>
+  <legend>How did you hear about us?</legend>
+  <div>
+    <input type="checkbox" id="instagram" name="source" value="instagram">
+    <label for="instagram">Instagram</label>
+  </div>
+  <div>
+    <input type="checkbox" id="facebook" name="source" value="facebook">
+    <label for="facebook">Facebook</label>
+  </div>
+  <div>
+    <input type="checkbox" id="search-engine" name="source" value="search-engine">
+    <label for="search-engine">Search Engine</label>
+  </div>
+  <div>
+    <input type="checkbox" id="word-of-mouth" name="source" value="word-of-mouth">
+    <label for="word-of-mouth">Word of Mouth</label>
+  </div>
+  <div>
+    <input type="checkbox" id="press" name="source" value="press">
+    <label for="press">Press</label>
+  </div>
+  <div>
+    <input type="checkbox" id="event" name="source" value="event">
+    <label for="event">Event</label>
+  </div>
+  <div>
+    <input type="checkbox" id="billboard" name="source" value="billboard">
+    <label for="billboard">Billboard</label>
+  </div>
+  <div>
+    <button type="submit">Submit form</button>
+  </div>
+  </fieldset>
+</form>
