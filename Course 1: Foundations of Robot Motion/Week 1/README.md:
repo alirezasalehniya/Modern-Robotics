@@ -9,3 +9,6 @@ The answer of this question is the robot's configuraiton
 - C-Sapce: The space of all configurations
 - Degrees of Freedoms (DOF): The dimension of the C-Space
 - DOF = &Sigma;(freedoms of points) - # of independent constraints
+
+
+&Sigma;
