@@ -1,4 +1,4 @@
-## Introductin:
+## Introduction:
 
 The first course focuses on Chapter 2 and Chapter 3 of "Modern Robotics: Mechanics, Planning, and Control" by Frank Chongwoo Park and Kevin M. Lynch.
 
