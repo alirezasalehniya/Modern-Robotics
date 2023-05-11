@@ -9,7 +9,7 @@ Which of the following are possible elements of robots in this specialization? S
 
 Question 2:
 The number of degrees of freedom of a robot is (select all that apply):
-- [X] the dimension of its configuration space
+- [x] the dimension of its configuration space
 - [x] the number of real numbers needed to specify its configuration.
 - [ ] the number of points on the robot.
 - [ ] the number of joints of the robot.
