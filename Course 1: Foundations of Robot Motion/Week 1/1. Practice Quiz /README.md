@@ -1,36 +1,7 @@
-<form>
-<fieldset>
-  <legend>How did you hear about us?</legend>
-  <div>
-    <input type="checkbox" id="instagram" name="source" value="instagram">
-    <label for="instagram">Instagram</label>
-  </div>
-  <div>
-    <input type="checkbox" id="facebook" name="source" value="facebook">
-    <label for="facebook">Facebook</label>
-  </div>
-  <div>
-    <input type="checkbox" id="search-engine" name="source" value="search-engine">
-    <label for="search-engine">Search Engine</label>
-  </div>
-  <div>
-    <input type="checkbox" id="word-of-mouth" name="source" value="word-of-mouth">
-    <label for="word-of-mouth">Word of Mouth</label>
-  </div>
-  <div>
-    <input type="checkbox" id="press" name="source" value="press">
-    <label for="press">Press</label>
-  </div>
-  <div>
-    <input type="checkbox" id="event" name="source" value="event">
-    <label for="event">Event</label>
-  </div>
-  <div>
-    <input type="checkbox" id="billboard" name="source" value="billboard">
-    <label for="billboard">Billboard</label>
-  </div>
-  <div>
-    <button type="submit">Submit form</button>
-  </div>
-  </fieldset>
-</form>
+## Lecture Comprehension, Degrees of Freedom of a Rigid Body (Chapter 2 through 2.1)
+
+Question 1
+Which of the following are possible elements of robots in this specialization? Select all that apply.
+[x] Rigid bodies.
+[] Soft, flexible bodies.
+[x] Joints.
