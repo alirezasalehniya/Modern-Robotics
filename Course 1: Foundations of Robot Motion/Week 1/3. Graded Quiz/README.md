@@ -37,7 +37,7 @@ Answer = "2*n+6"
 ### Question 7:
 Use the planar version of Grubler's formula to determine the number of degrees of freedom of the mechanism shown below.  Your answer should be an integer.  (Remember that a single joint can only connect two rigid bodies, so if you see more than two connecting at a single point, there must be more than one joint there.  Also, the two blocks in the channels are only allowed to move prismatically in those channels, and one of the joints is labeled "P" for prismatic.  You will need to identify all the other joints, and links.)
 
-<img src="FIGURES/7.jpg">
+<img src="FIGURES/7.jpg" width="500" height="250">
 
 Answer: "3"
 
