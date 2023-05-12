@@ -18,7 +18,7 @@ Answer = "5"
 ### Question 4:
 Four identical SRS arms are grasping a common object as shown below.
 
-<img src="FIGURES/4.jpg" width="500" height="500">
+<img src="FIGURES/4.jpg" width="500" height="250">
 
 Find the number of degrees of freedom of this system while the grippers hold the object rigidly (no relative motion between the object and the last links of the SRS arms).  Your answer should be an integer.
 
