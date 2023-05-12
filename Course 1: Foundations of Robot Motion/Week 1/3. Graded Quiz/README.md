@@ -40,4 +40,3 @@ Use the planar version of Grubler's formula to determine the number of degrees o
 <img src="FIGURES/7.jpg" width="500" height="250">
 
 Answer: "3"
-
