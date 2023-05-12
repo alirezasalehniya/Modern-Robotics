@@ -1,4 +1,4 @@
-# Lecture Comprehension, Degrees of Freedom of a Robot (Chapter 2.2)
+## Lecture Comprehension, Degrees of Freedom of a Robot (Chapter 2.2)
 
 ### Question 1:
 
