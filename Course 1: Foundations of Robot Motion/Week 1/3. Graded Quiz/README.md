@@ -18,6 +18,8 @@ Answer = "5"
 ### Question 4:
 Four identical SRS arms are grasping a common object as shown below.
 
+<img src="Figures/4.jpg">
+
 Find the number of degrees of freedom of this system while the grippers hold the object rigidly (no relative motion between the object and the last links of the SRS arms).  Your answer should be an integer.
 
 Answer = "10"
@@ -35,4 +37,7 @@ Answer = "2*n+6"
 ### Question 7:
 Use the planar version of Grubler's formula to determine the number of degrees of freedom of the mechanism shown below.  Your answer should be an integer.  (Remember that a single joint can only connect two rigid bodies, so if you see more than two connecting at a single point, there must be more than one joint there.  Also, the two blocks in the channels are only allowed to move prismatically in those channels, and one of the joints is labeled "P" for prismatic.  You will need to identify all the other joints, and links.)
 
+<img src="Figures/7.jpg">
+
 Answer: "3"
+
