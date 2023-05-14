@@ -2,7 +2,7 @@
 
 ### Question 1:
 The tip coordinates for the two-link planar 2R robot of figure below are given by
-pic
+
 (In other words, link 1 has length 1 and link 2 has length 2.)  The joint angles have no limits. 
 Which of the following best describes the shape of the robot's workspace (the set of locations the endpoint can reach)?
 - [ ] A circle and its interior.
