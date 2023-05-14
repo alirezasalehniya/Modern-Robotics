@@ -5,5 +5,5 @@ If the task is to control the orientation of a spaceship simulator, but not its 
 - Answer = 3
 
 ### Question 2:
-- [ ] True
-- [x] False
+- [x] True
+- [ ] False
