@@ -12,6 +12,9 @@ True or false?  An n-dimensional space can be topologically equivalent to an m-d
 - [x] False
 
 
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 - Stretching: This operation involves changing the sizes or proportions of objects in the space while preserving their connectivity. Stretching can be used to deform one space into another without cutting or gluing.
 
 - Cutting: This operation, as explicitly stated in the passage, is not allowed. Cutting would introduce discontinuities or disconnected components, altering the topology of the space.
