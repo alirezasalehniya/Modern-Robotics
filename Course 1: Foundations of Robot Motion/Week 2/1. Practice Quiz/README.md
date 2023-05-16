@@ -5,7 +5,7 @@ To deform one n-dimensional space into another topologically equivalent space, w
 - [x] Stretching
 - [ ] Cutting
 - [ ] Gluing
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Question 2:
 True or false?  An n-dimensional space can be topologically equivalent to an m-dimensional space, where m≠n.
 - [ ] True
