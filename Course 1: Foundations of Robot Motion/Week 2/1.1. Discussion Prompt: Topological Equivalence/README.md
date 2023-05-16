@@ -1,4 +1,4 @@
-### Title: Topological Equivalences: Spheres, Tori, and Configuration Spaces
+# Title: Topological Equivalences: Spheres, Tori, and Configuration Spaces
 
 ## Introduction:
 - Topology is a branch of mathematics that studies the properties of spaces 
