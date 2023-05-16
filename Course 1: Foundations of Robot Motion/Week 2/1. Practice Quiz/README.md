@@ -22,6 +22,7 @@ True or false?  An n-dimensional space can be topologically equivalent to an m-d
 - Gluing: This operation, as also mentioned in the passage, is not allowed. Gluing involves joining different parts of the space together, which would result in a change in topology.
 
 So, to deform one n-dimensional space into another topologically equivalent space, stretching is the primary operation used. Cutting and gluing are explicitly excluded from the allowed operations.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 Deforming a space by stretching alone cannot change its dimension. The dimension of a space is an intrinsic property that remains constant throughout deformations.
 
