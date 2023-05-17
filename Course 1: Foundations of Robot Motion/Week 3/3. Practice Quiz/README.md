@@ -20,5 +20,5 @@ represents the orientation R_sa of a frame {a} that has been achieved by rotatin
 The matrix:
 
 represents the orientation R_sa of a frame {a} that has been achieved by rotating the {s} frame by 90 degrees about its x-axis. Now, given a matrix R_sb representing the orientation of {b} relative to {s}, which of the following represents the orientation of a frame (relative to {s}) that was initially aligned with {b}, but then rotated about the {s}-frame's x-axis by 90 degrees?
-- [ ] R_sb.R
+- [ ] R_sb(R)
 - [x] ${\color{red}R.R_sb}$ 
