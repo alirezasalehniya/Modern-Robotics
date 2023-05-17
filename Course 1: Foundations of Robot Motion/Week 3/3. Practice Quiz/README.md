@@ -12,7 +12,7 @@ Which of the following is equivalent to R_ac, the representation of the orientat
 The matrix:
 
 represents the orientation R_sa of a frame {a} that has been achieved by rotating the {s} frame by 90 degrees about its -axis. Now, given a matrix R_xb representing the orientation of {b} relative to {s}, which of the following represents the orientation of a frame (relative to {s}) that was initially aligned with {b}, but then rotated about the {b}-frame's x-axis by 90 degrees?
-- [x] R_sb.R
+- [x] ${\color{red}R_sb.R}$ 
 - [ ] R.R_sb
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -21,4 +21,4 @@ The matrix:
 
 represents the orientation R_sa of a frame {a} that has been achieved by rotating the {s} frame by 90 degrees about its x-axis. Now, given a matrix R_sb representing the orientation of {b} relative to {s}, which of the following represents the orientation of a frame (relative to {s}) that was initially aligned with {b}, but then rotated about the {s}-frame's x-axis by 90 degrees?
 - [ ] R_sb.R
-- [x] R.R_sb
+- [x] ${\color{red}R.R_sb}$ 
