@@ -1,4 +1,4 @@
-## Modern-Robotics
+## Coursera Modern Robotics
 
 - Modern Robotics: Mechanics, Planning, and Control 
 - Coursera Specialization
