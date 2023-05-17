@@ -7,7 +7,6 @@ Which of the following is equivalent to R_ac, the representation of the orientat
 - [x] [((R_bc)^T).((R_ab)^T)]^T
 - [x] R_ad.R_db.R_bc
 
-<sub>subscript</sub> and <sup>superscript</sup>
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Question 2:
 The matrix:
