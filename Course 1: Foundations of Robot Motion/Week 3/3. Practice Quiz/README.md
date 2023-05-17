@@ -2,10 +2,12 @@
 
 ### Question 1:
 Which of the following is equivalent to R_ac, the representation of the orientation of the {c} frame relative to the {a} frame? Select all that apply.
-- [x] R_ab.R_bc
+- [x] $\R_ab.R_bc$
 - [x] R_ab.((R_bc)^T)
 - [x] [((R_bc)^T).((R_ab)^T)]^T
 - [x] R_ad.R_db.R_bc
+
+$\sqrt{3x-1}+(1+x)^2$
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Question 2:
