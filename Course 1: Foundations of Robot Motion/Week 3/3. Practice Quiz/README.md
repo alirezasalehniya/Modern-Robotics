@@ -7,7 +7,7 @@ Which of the following is equivalent to R_ac, the representation of the orientat
 - [x] [((R_bc)^T).((R_ab)^T)]^T
 - [x] R_ad.R_db.R_bc
 
-$${\color{red}Red}$$ 
+${\color{red}Red}$
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Question 2:
