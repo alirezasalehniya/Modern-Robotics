@@ -2,10 +2,17 @@
 
 ### Question 1:
 Which of the following is equivalent to R_ac, the representation of the orientation of the {c} frame relative to the {a} frame? Select all that apply.
-- [x] - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15` R_ab.R_bc
+- [x] R_ab.R_bc
 - [x] R_ab.((R_bc)^T)
 - [x] [((R_bc)^T).((R_ab)^T)]^T
 - [x] R_ad.R_db.R_bc
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Question 2:
