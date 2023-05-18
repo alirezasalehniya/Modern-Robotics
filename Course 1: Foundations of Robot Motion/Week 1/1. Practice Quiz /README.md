@@ -2,10 +2,10 @@
 
 ### Question 1:
 
-Which of the following are possible elements of robots in this specialization? Select all that apply.
-&#10003; Rigid bodies
-&#10007; Soft, flexible bodies
-&#10003; Joints
+Which of the following are possible elements of robots in this specialization? Select all that apply.<br>
+&#10003; Rigid bodies<br>
+&#10007; Soft, flexible bodies<br>
+&#10003; Joints<br>
 
 
 ### Question 2:
