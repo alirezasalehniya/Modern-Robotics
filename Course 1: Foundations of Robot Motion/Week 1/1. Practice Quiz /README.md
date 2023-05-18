@@ -31,7 +31,7 @@ The number of degrees of freedom of a spatial rigid body is: ${\color{red}6}$
 
 ### Question 5:
 
-A rigid body in n-dimensional space has m total degrees of freedom. How many of these m degrees of freedom are angular (not linear)?  Select all that apply. (This is consistently one of the most incorrectly answered questions in this course, so think about it carefully!)
-&#10004; m-n
-&#10004; n(n-1)/2
-&#10008; Neither of the above.
+A rigid body in n-dimensional space has m total degrees of freedom. How many of these m degrees of freedom are angular (not linear)?  Select all that apply. (This is consistently one of the most incorrectly answered questions in this course, so think about it carefully!)<br>
+&#10004; m-n<br>
+&#10004; n(n-1)/2<br>
+&#10006; Neither of the above.<br>
