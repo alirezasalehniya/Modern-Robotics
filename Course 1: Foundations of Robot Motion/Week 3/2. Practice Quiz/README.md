@@ -14,11 +14,11 @@ The 3×3 rotation matrix is an implicit representation of spatial orientations c
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Question 3:
-The inverse of a rotation matrix R_ab, i.e, (R_ab)^-1 is (select all that apply):<br>
-&#10007; - R_ab<br>
-&#10003; R_ab^T<br>
+The inverse of a rotation matrix R<sub>ab</sub>, i.e, (R<sub>ab</sub>)<sup>-1</sup> is (select all that apply):<br>
+&#10007; -R<sub>ab</sub><br>
+&#10003; (R<sub>ab</sub>)<sup>T</sup><br>
 &#10007; R-I<br>
-&#10003; R_ba<br>
+&#10003; R<sub>ba</sub><br>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Question 4:
