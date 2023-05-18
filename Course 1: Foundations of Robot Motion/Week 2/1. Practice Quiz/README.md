@@ -1,18 +1,16 @@
 ## Lecture Comprehension, Configuration Space Topology (Chapter 2.3.1)
 
 ### Question 1:
-To deform one n-dimensional space into another topologically equivalent space, which operations are you allowed to use?  Select all that apply.
-- [x] Stretching
-- [ ] Cutting
-- [ ] Gluing
+To deform one n-dimensional space into another topologically equivalent space, which operations are you allowed to use?  Select all that apply.<br>
+&#10003; Stretching<br>
+&#10007; Cutting<br>
+&#10007; Gluing<br>
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Question 2:
-True or false?  An n-dimensional space can be topologically equivalent to an m-dimensional space, where m≠n.
-- [ ] True
-- [x] False
-
-
-
+True or false?  An n-dimensional space can be topologically equivalent to an m-dimensional space, where m≠n.<br>
+&#10007; True<br>
+&#10003; False<br>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 - Stretching: This operation involves changing the sizes or proportions of objects in the space while preserving their connectivity. Stretching can be used to deform one space into another without cutting or gluing.
