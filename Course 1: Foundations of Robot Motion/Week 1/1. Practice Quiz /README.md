@@ -21,12 +21,14 @@ The number of degrees of freedom of a robot is (select all that apply):<br>
 
 ### Question 3:
 
-The number of degrees of freedom of a planar rigid body is: ${\color{red}3}$ 
+The number of degrees of freedom of a planar rigid body is:<br>
+${\color{red}3}$ 
 
 
 ### Question 4:
 
-The number of degrees of freedom of a spatial rigid body is: ${\color{red}6}$ 
+The number of degrees of freedom of a spatial rigid body is:<br>
+${\color{red}6}$ 
 
 
 ### Question 5:
