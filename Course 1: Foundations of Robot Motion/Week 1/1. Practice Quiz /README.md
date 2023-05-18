@@ -11,12 +11,12 @@ Which of the following are possible elements of robots in this specialization? S
 ### Question 2:
 
 The number of degrees of freedom of a robot is (select all that apply):<br>
-&#10003; the dimension of its configuration space<br>
-&#10003; thenumber of real numbers needed to specify its configuration<br>
-- [ ] the number of points on the robot.
-- [ ] the number of joints of the robot.
-- [ ] the number of bodies comprising the robot.
-- [x] ${\color{red}the number of freedoms of the bodies minus the number of independent constraints between the bodies}$ 
+&#10003; The dimension of its configuration space<br>
+&#10003; Thenumber of real numbers needed to specify its configuration<br>
+The number of points on the robot.<br>
+The number of joints of the robot.<br>
+The number of bodies comprising the robot.<br>
+&#10003; The number of freedoms of the bodies minus the number of independent constraints between the bodies.<br>
 
 
 ### Question 3:
