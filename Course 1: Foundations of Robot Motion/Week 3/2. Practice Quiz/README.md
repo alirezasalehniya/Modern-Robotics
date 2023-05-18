@@ -1,11 +1,11 @@
 ## Lecture Comprehension, Rotation Matrices (Chapter 3.2.1, Part 1 of 2)
 
 ### Question 1:
-For the rotation matrix R_ba representing the frame {a} relative to {b},
-- [] the rows are the x, y, z axes of {a} written in {b} coordinates.
-- [] the columns are the x, y, z axes of {a} written in {b} coordinates.
-- [] the rows are the x, y, z axes of {b} written in {a} coordinates.
-- [] the columns are the x, y, z axes of {b} written in {a} coordinates.
+For the rotation matrix R_ba representing the frame {a} relative to {b},<br>
+&#10007; the rows are the x, y, z axes of {a} written in {b} coordinates.<br>
+&#10003; the columns are the x, y, z axes of {a} written in {b} coordinates.<br>
+&#10007; the rows are the x, y, z axes of {b} written in {a} coordinates.<br>
+&#10007; the columns are the x, y, z axes of {b} written in {a} coordinates.<br>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Question 2:
@@ -14,15 +14,15 @@ The 3×3 rotation matrix is an implicit representation of spatial orientations c
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Question 3:
-The inverse of a rotation matrix R_ab, i.e, (R_ab)^-1 is (select all that apply):
-- [ ] - R_ab
-- [x] R_ab^T
-- [ ] R-I
-- [x] R_ba
+The inverse of a rotation matrix R_ab, i.e, (R_ab)^-1 is (select all that apply):<br>
+&#10007; - R_ab<br>
+&#10003; R_ab^T<br>
+&#10007; R-I<br>
+&#10003; R_ba<br>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Question 4:
-Multiplication of SO(3) rotation matrices is (select all that apply):
-- [x] Associative. 
-- [ ] Commutative.
+Multiplication of SO(3) rotation matrices is (select all that apply):<br>
+&#10003; Associative.<br>
+&#10007; Commutative.<br>
 
